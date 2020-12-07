@@ -77,10 +77,19 @@
 	top: 10px;
 	left: 160px;
 }
-@media only screen and (max-width: 1000px){
+@media only screen and (max-width: 1500px){
 	.redesSociales{
 	position: relative;
 	top: 30px;
+	left: 1200px;
+	width: 300px;
+	height: 75px;
+}
+}
+@media only screen and (max-width: 1000px){
+	.redesSociales{
+	position: relative;
+	top: 25px;
 	left: 0px;
 	width: 300px;
 	height: 75px;
